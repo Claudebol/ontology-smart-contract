@@ -13,7 +13,6 @@
     "type": "git",
     "url": "git+https://github.com/claudebol/ontsc-debug-utils.git"
   },
-  "author": "Ontsc Suite <inquiry@trufflesuite.com>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/claudebol/ontsc-debug-utils/issues"

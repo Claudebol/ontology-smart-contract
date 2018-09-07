@@ -1,0 +1,29 @@
+{
+  "name": "ontsc-workflow-compile",
+  "version": "1.0.6",
+  "description": "Core workflow behavior for `ontsc compile` command",
+  "dependencies": {
+    "async": "2.6.1",
+    "lodash": "4.17.10",
+    "mkdirp": "^0.5.1",
+    "ontsc-artifactor": "^3.0.7",
+    "ontsc-compile": "^3.0.13",
+    "ontsc-config": "^1.0.6",
+    "ontsc-expect": "^0.0.4",
+    "ontsc-resolver": "^4.0.4"
+  },
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/claudebol/ontsc-debug-utils.git"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/claudebol/ontsc-workflow-compile/issues"
+  },
+  "homepage": "https://github.com/claudebol/ontsc-workflow-compile#readme",
+  "publishConfig": {
+    "access": "public"
+  }
+}
