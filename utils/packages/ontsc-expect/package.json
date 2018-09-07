@@ -1,0 +1,25 @@
+{
+  "name": "ontsc-expect",
+  "version": "0.0.4",
+  "description": "Simple module for ensuring specific options are passed to a function",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/claudebol/ontsc-expect.git"
+  },
+  "keywords": [
+    "ontsc",
+    "ethereum",
+    "expect"
+  ],
+  "author": "Tim Coulter <tim.coulter@consensys.net>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/claudebol/ontsc-expect/issues"
+  },
+  "homepage": "https://github.com/claudebol/ontsc-expect#readme",
+  "publishConfig": {
+    "access": "public"
+  }
+}
