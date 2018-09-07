@@ -1,0 +1,23 @@
+{
+  "name": "ontsc-error",
+  "version": "0.0.3",
+  "description": "Simple module that allows native Error objects to be extended",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/claudebol/ontsc-error.git"
+  },
+  "keywords": [
+    "ethereum",
+    "ontsc",
+    "error",
+    "extendable"
+  ],
+  "author": "Tim Coulter <tim.coulter@consensys.net>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/claudebol/ontsc-error/issues"
+  },
+  "homepage": "https://github.com/claudebol/ontsc-error#readme"
+}
