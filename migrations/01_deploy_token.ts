@@ -1,7 +1,7 @@
 import { Deployer } from "../utils/deployer";
 import { utils } from 'ontology-ts-sdk';
 
-module.exports = async (deployer: Deployer) => {
+export = async (deployer: Deployer) => {
   const contract = await deployer.deploy('TestContract', 'Deploy');
   contract.deployed()
     .then(async (aa) => {
