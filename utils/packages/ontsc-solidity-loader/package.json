@@ -1,0 +1,26 @@
+{
+  "name": "ontsc-solidity-loader",
+  "version": "0.0.8",
+  "description": "A Webpack loader that uses Ontsc to load and provision solidity contracts, with Ontsc migrations.",
+  "main": "index.js",
+  "scripts": {
+    "lintjs": "standard",
+    "lintjs-fix": "standard --fix"
+  },
+  "authors": [
+    "John McDowall <john@kantan.io>",
+    "Angello Pozo <angellopozo@gmail.com>"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^1.1.3",
+    "find-up": "^1.1.2",
+    "loader-utils": "^1.1.0",
+    "schema-utils": "^1.0.0",
+    "ontsc-config": "^1.0.6",
+    "ontsc-core": "^4.1.13"
+  },
+  "devDependencies": {
+    "standard": "^11.0.1"
+  }
+}
