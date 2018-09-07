@@ -1,0 +1,26 @@
+{
+  "name": "ontsc-solidity-utils",
+  "version": "1.1.2",
+  "description": "Utilities for Solidity contracts",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/claudebol/ontsc-solidity-utils.git"
+  },
+  "keywords": [
+    "ethereum",
+    "ontsc",
+    "solidity",
+    "contracts"
+  ],
+  "author": "Tim Coulter <tim.coulter@consensys.net>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/claudebol/ontsc-solidity-utils/issues"
+  },
+  "homepage": "https://github.com/claudebol/ontsc-solidity-utils#readme",
+  "publishConfig": {
+    "access": "public"
+  }
+}
