@@ -1,0 +1,32 @@
+{
+  "name": "ontsc-config",
+  "version": "1.0.6",
+  "description": "Utility for interacting with ontsc.js files",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/claudebol/ontsc-config.git"
+  },
+  "keywords": [
+    "ethereum",
+    "ontsc",
+    "config"
+  ],
+  "author": "Tim Coulter <tim.coulter@consensys.net>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/claudebol/ontsc-config/issues"
+  },
+  "homepage": "https://github.com/claudebol/ontsc-config#readme",
+  "dependencies": {
+    "find-up": "^2.1.0",
+    "lodash": "4.17.10",
+    "original-require": "1.0.1",
+    "ontsc-error": "^0.0.3",
+    "ontsc-provider": "^0.0.6"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}
