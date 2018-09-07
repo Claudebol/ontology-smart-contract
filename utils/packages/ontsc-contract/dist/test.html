@@ -1,0 +1,20 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <script type="text/javascript" src="../node_modules/web3/dist/web3.min.js"></script>
+    <script type="text/javascript" src="./ontsc-contract.js"></script>
+    <script>
+      window.onload = function() {
+        if (OntscContract != null) {
+          document.body.innerHTML = "Success!"
+        } else {
+          document.body.innerHTML = "FAILED!"
+        }
+
+        console.log(OntscContract);
+      };
+    </script>
+  </head>
+  <body>
+  </body>
+</html>
