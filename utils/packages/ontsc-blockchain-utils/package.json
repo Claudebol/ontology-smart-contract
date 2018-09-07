@@ -1,0 +1,22 @@
+{
+  "name": "ontsc-blockchain-utils",
+  "version": "0.0.5",
+  "description": "Utilities for identifying and managing blockchains",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/claudebol/ontsc-blockchain-utils.git"
+  },
+  "keywords": [
+    "ethereum",
+    "ontsc",
+    "blockchain"
+  ],
+  "author": "Tim Coulter <tim.coulter@consensys.net>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/claudebol/ontsc-blockchain-utils/issues"
+  },
+  "homepage": "https://github.com/claudebol/ontsc-blockchain-utils#readme"
+}
