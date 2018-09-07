@@ -1,0 +1,25 @@
+{
+  "name": "ontsc-debug-utils",
+  "version": "1.0.6",
+  "description": "Integration utils for ontsc/ontsc-debugger",
+  "dependencies": {
+    "async": "2.6.1",
+    "debug": "^3.1.0",
+    "node-dir": "0.1.17"
+  },
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/claudebol/ontsc-debug-utils.git"
+  },
+  "author": "Ontsc Suite <inquiry@trufflesuite.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/claudebol/ontsc-debug-utils/issues"
+  },
+  "homepage": "https://github.com/claudebol/ontsc-debug-utils#readme",
+  "publishConfig": {
+    "access": "public"
+  }
+}
